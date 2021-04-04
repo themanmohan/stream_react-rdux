@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "first stream",
+      "description": "my first stream",
+      "id": 1
+    },
+    {
+      "title": "second",
+      "description": "second stream",
+      "id": 2
+    },
+    {
+      "title": "stream",
+      "description": "by mee",
+      "id": 3
+    },
+    {
+      "title": "stream",
+      "description": "frist stream",
+      "userId": "108778683833949395534",
+      "id": 4
+    },
+    {
+      "title": "bhjhjb",
+      "description": "kjkn",
+      "userId": "108778683833949395534",
+      "id": 5
+    }
+  ]
+}
